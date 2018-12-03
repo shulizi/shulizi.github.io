@@ -20,7 +20,6 @@ ActionBar的开发是App开发中比较重要的一环，虽然自定义actionba
 ActionBar修改按钮只需要修改menu就可以了，而不用考虑点击效果，图片尺寸，可以说这是它相较于自定义ActionBar的优势之一。然后在代码里面添加点击事件就可以了。
 
 ### main.xml
-
 ``` xml
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 <item   

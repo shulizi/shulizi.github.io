@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杜李的博客
-brief-intro: Android and Python Coder
+brief-intro: IOS Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shulizi.github.io" # the base hostname & protocol for your site
 

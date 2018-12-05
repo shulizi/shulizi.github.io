@@ -22,5 +22,5 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/shulizi)
+* GitHub：[shulizi](https://github.com/shulizi)
 * email：464592183@qq.com

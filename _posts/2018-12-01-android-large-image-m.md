@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "android开发篇：不压缩加载大图片的自定义view实现下"
-date:   2018-12-02 23:20:54
+date:   2016-06-17
 categories: android
 tags: android largeimage
 ---
